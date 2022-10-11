@@ -1,2 +1,1 @@
-# chimera
-chimera search engine
+# Chimera Search ENgine
